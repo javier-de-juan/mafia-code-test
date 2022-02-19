@@ -1,17 +1,11 @@
-# Clicars interview - Mafia coding test
+# Mafia coding test
 
-## Intro
+## Disclaimer
 
-Welcome to the recruiting process for Software Engineer in Clicars.
+This is the proposal made by [Javier De Juan](https://www.javierdejuan.es). It could be improved or maybe even is not correct.
+Debug the code and make a PR if you considere it. Would be appreciated.
 
-You have 2 hours to solve this test:
- 
-https://docs.google.com/document/d/1_eB-AuFY-EbAgNSUrjF-mT4BywZoyGocRmQTsjaWJzg/edit?usp=sharing
-
-When the time is over, you will have to send a compressed file with all the code generated to solve the test to ivan@clicars.com
-
-Good luck and have fun!
-
+Thanks for your time.
 
 ## Test
 
