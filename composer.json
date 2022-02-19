@@ -1,0 +1,38 @@
+{
+    "name": "clicars/interview",
+    "description": "Clicars interviews - Mafia coding test",
+    "license": "proprietary",
+    "type": "project",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Clicars\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Clicars\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=8.0",
+        "phpunit/phpunit": "~9.0"
+    },
+    "scripts": {
+        "test": [
+            "phpunit tests/*"
+        ],
+        "test:coverage": [
+            "phpunit tests/* --coverage-html ./html"
+        ],
+        "phpstan":[
+            "phpstan analyse src -c phpstan.neon --memory-limit=256M"
+        ]
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest",
+        "phpstan/phpstan": "^1.4",
+        "jangregor/phpstan-prophecy": "^1.0"
+    }
+}
