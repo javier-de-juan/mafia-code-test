@@ -3,7 +3,7 @@
 ## Disclaimer
 
 This is the proposal made by [Javier De Juan](https://www.javierdejuan.es). It could be improved or maybe even is not correct.
-Debug the code and make a PR if you considere it. Would be appreciated.
+Debug the code and make a PR if you consider it. Would be appreciated.
 
 Thanks for your time.
 
